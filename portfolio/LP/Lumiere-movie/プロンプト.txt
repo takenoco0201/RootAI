@@ -1,0 +1,259 @@
+あなたは架空の一流化粧品会社のマーケティング担当です。
+この夏発売の日焼け止めのLPの制作依頼をweb制作会社に発注します。
+添付のヒアリングシートに必要事項を入力し、シートを完成させてください
+・背景カラーは、強い夏の日差しをイメージした青
+・ターゲットは20-30代女性
+・汗にも負けず、化粧崩れしない
+・この夏最強の日焼け止め効果
+
+
+-------
+
+添付のヒアリングシート元に、クライアントの要望に沿ったコンセプトシートとフレームワークを3種類作成してください
+
+=================================
+◆VIDEOプロンプト
+---------------
+修正版プロンプト
+Video 1: hero.mp4（改訂版）
+
+A 8-second seamlessly looping cinematic background video 
+for a luxury UV sunscreen landing page hero section.
+
+Scene: Extreme close-up of smooth, luminous skin surface under 
+intense golden sunlight. Crystal-clear sweat droplets continuously 
+form, bead up, and roll off the skin surface. 
+As drops contact the skin, a subtle shimmering gold hexagonal 
+molecular barrier pattern pulses softly beneath the surface ? 
+a continuous, ambient glow, not a one-time event.
+
+LOOP REQUIREMENT: The first and last frame must match exactly. 
+Design as a breathing cycle: the animation starts mid-state 
+(some drops already present), completes the bead-and-roll cycle, 
+and new drops begin forming again as the clip ends ? 
+creating a continuous, hypnotic rhythm.
+
+Camera: No directional drift. Instead, very subtle "breathing" 
+camera ? a gentle scale oscillation (zoom in 1?2% then return) 
+over the 8 seconds. Imperceptible movement, like the skin is alive.
+
+Color palette: Deep navy at edges (vignette), 
+warm gold (#C9A84C) in highlights, ice-blue (#F0F7FF) 
+water reflections on drops.
+
+Style: Ultra high-end cosmetics commercial. Macro lens.
+Slow-motion (3x). Cinematic color grade. Shallow depth of field.
+Subtle film grain. Soft ambient lens light (not directional flare).
+
+No text. No UI. No people. Skin + water + light only.
+Mood: Premium, scientific, meditative.
+
+---------------
+Video 2: key-moment.mp4（大幅改訂版）
+
+A 8-second seamlessly looping cinematic full-bleed background video
+for a luxury UV sunscreen landing page section.
+
+Scene: A single continuous slow-motion shot. 
+A Japanese woman athlete (runner) is captured mid-stride 
+in bright outdoor sunlight. Frame is static ? she moves through it.
+Her skin glistens continuously with sweat in the sunlight.
+A soft, pulsing gold hexagonal molecular shimmer glows on her 
+arm/shoulder throughout the entire clip ? not triggered once, 
+but a continuous ambient protective aura.
+
+LOOP REQUIREMENT: The shot must loop with zero visual jump.
+Achieve this by one of these methods:
+  (a) Extremely slow push-in that is imperceptible in 10 seconds, 
+      returned to start position exactly at the end frame, OR
+  (b) The woman's motion is a slow continuous pan (she is never 
+      fully in or out of frame during the 10 seconds), 
+      so the start and end frame both show mid-movement at 
+      the same depth/position.
+
+NO camera cuts. NO narrative arc. NO before/after moment.
+This is ambient, meditative, aspirational ? not a story.
+
+Left edge of frame: deep navy vignette gradient (to allow 
+white text overlay on the left side of the screen).
+Right two-thirds: bright outdoor sunlight, 
+cerulean sky blur, green nature blur in background.
+Gold shimmer color: #C9A84C. Subtle, not neon.
+
+Style: High-end J-beauty commercial. Slow motion (4x).
+Sunlit, warm, empowering. Cinematic color grade.
+Mood: Sweat is not the enemy. You are protected, always.
+
+No text. No subtitle. No on-screen graphics.
+
+---------------
+Video 3: brand-shield.mp4 ? バリア強化ビジュアライズ動画（10秒・ループ）
+
+A 8-second seamlessly looping visualization video for a luxury 
+UV sunscreen brand section. Displayed as a circular cropped video 
+(aspect ratio 1:1, circle mask applied in CSS).
+
+Scene concept: Microscopic / scientific visualization of 
+"sweat activating a UV protection barrier."
+
+Animation cycle (must complete and restart seamlessly):
+
+  0.0s ? 1.5s: 
+  Dark navy background with a softly glowing gold hexagonal 
+  molecular lattice at center. Calm, dormant state.
+  Three translucent water droplets slowly descend from the top.
+
+  1.5s ? 3.5s:
+  The droplets reach the gold lattice surface and make contact.
+  On impact, each drop causes a ripple ? rings of gold light 
+  radiate outward in concentric circles (3 rings, staggered 0.2s apart).
+  The lattice glows brighter in response.
+
+  3.5s ? 6.0s:
+  The central hexagonal shield brightens to brilliant gold.
+  The entire lattice pattern expands slightly, as if energized.
+  Micro-particles of light float upward from the surface.
+  Text-like label effect (NOT readable text) ? just a glowing 
+  "UV+" mark in the center of the hexagon.
+
+  6.0s ? 8.5s:
+  The glow gradually softens. New droplets begin forming at top.
+  The shield returns to its calm, empowered resting state.
+
+  8.5s ? 10.0s:
+  Identical to 0.0s state ? three new drops just beginning to fall.
+  Seamless loop point.
+
+Visual style:
+  - Black or very deep navy background (#0A1520)
+  - Gold particle rings and lattice: #C9A84C, #FFE08A for highlights
+  - Water drops: translucent blue-white, semi-transparent
+  - Floating micro-particles: soft gold, slow upward drift
+  - Cinematic, scientific, premium cosmetics aesthetic
+  - Subtle depth-of-field blur at edges (circular vignette)
+  - Very slight film grain overlay
+
+Mood: "The moment sweat touches the formula, protection intensifies."
+Scientific beauty. Molecular luxury.
+
+NO text (the "UV+" is purely a glowing geometric mark, not a label).
+NO humans. NO photography. Pure abstract scientific visualization.
+Square (1:1) or slightly wider, video will be circle-cropped in CSS.
+
+
+---------------
+Video 4: scene-sport.mp4
+「朝1回塗るだけ。あとは汗にまかせていい。」
+
+
+A 8-second seamlessly looping cinematic video for a luxury 
+UV sunscreen landing page. Displayed at left half of a split 
+text-image layout. Aspect ratio approximately 3:4 (portrait).
+
+Scene: A Japanese woman runner in athletic wear, 
+outdoors in bright morning sunlight.
+She is mid-run on a sunny urban road or park path.
+Sweat glistens on her skin ? forehead, arms, neck.
+She looks relaxed, not straining ? confident, unbothered.
+No need to touch her face. No need to reapply anything.
+She is completely in the moment.
+
+LOOP STRUCTURE (seamless):
+  0.0s?4.0s: Slow-motion shot of her running form, 
+              sunlight catching the sweat on her skin.
+  4.0s?7.0s: Gentle push-in toward her face/shoulder area, 
+              sweat visible, skin luminous and protected.
+  7.0s?10.0s: Pull back slowly to the same wide framing as 0.0s.
+              Matches start frame for seamless loop.
+
+Camera: Handheld, slightly stabilized. Slow motion (3x).
+Framing: Portrait orientation. Subject fills 70% of frame.
+Morning light from behind/side (golden hour warmth).
+
+Color grade: Warm golden highlights, cool blue shadows.
+Skin tones: luminous, healthy, slightly dewy.
+Background: soft bokeh of green trees or urban morning.
+
+Style: Premium J-beauty / activewear commercial.
+No text. No graphics. No product in frame.
+Mood: "I don't have to think about my sunscreen. It just works."
+
+---------------
+Video 5: scene-makeup.mp4
+「崩れないから、外出先でも自信が持てる。」
+
+
+A 8-second seamlessly looping cinematic video for a luxury 
+UV sunscreen landing page. Displayed at right half of a 
+reversed split text-image layout. Aspect ratio approximately 3:4 (portrait).
+
+Scene: A Japanese woman in a stylish summer outfit, 
+in an outdoor urban setting ? a caf? terrace, 
+a shopping street, or a sunlit plaza.
+She has light makeup on. It is clearly afternoon, warm and bright.
+She is calm, poised, unhurried.
+She is NOT touching or checking her makeup.
+Her skin looks flawless and fresh ? as if she just applied it moments ago,
+even though she has clearly been out all day.
+
+LOOP STRUCTURE (seamless):
+  0.0s?3.5s: Wide to mid-shot. She walks slowly through sunlight.
+              Sunlight on her face ? no shine, no oil, 
+              foundation sitting perfectly.
+  3.5s?6.5s: Close-up on her cheek/jaw area ? 
+              skin surface smooth, matte-satin finish, 
+              makeup intact, not melting or creasing.
+  6.5s?10.0s: Pull back to match the 0.0s framing. Seamless loop.
+
+Camera: Smooth, tracking shot or static with subject moving through frame.
+Slow motion (2x). Portrait orientation.
+Afternoon sunlight from side.
+
+Color grade: Bright, airy, slightly warm.
+Fashion-editorial feel. Shallow depth of field on close-up.
+
+Style: Luxury cosmetics + sunscreen. Effortless confidence.
+No text. No product in frame.
+Mood: "My makeup is exactly how I left it this morning."
+
+---------------
+Video 6: scene-skincare.mp4
+「守りながら、肌を育てていく。」
+
+
+A 8-second seamlessly looping cinematic video for a luxury 
+UV sunscreen landing page. Displayed at left half of a split 
+text-image layout. Aspect ratio approximately 3:4 (portrait).
+
+Scene: A Japanese woman doing her morning skincare routine 
+at a bright, minimal bathroom vanity or by a sunlit window.
+She applies a lightweight serum-like product to her face 
+with gentle upward strokes. Her skin looks healthy, 
+translucent, and deeply nourished.
+The light through the window is soft and natural.
+
+LOOP STRUCTURE (seamless):
+  0.0s?2.5s: Wide shot ? woman at the mirror, 
+              hands moving to her face with product.
+  2.5s?6.0s: Close-up on her cheek and fingertips.
+              Product blending into skin ? 
+              skin surface catches light beautifully, 
+              no residue, just luminosity.
+              Micro close-up: a single drop of product 
+              absorbed into skin surface (macro, slow-motion).
+  6.0s?10.0s: Return to wide shot framing matching 0.0s. 
+               Her reflection in the mirror visible. Seamless loop.
+
+Camera: Smooth. Mix of wide and macro close-up. Slow motion (2?3x).
+Portrait orientation. Soft natural window light.
+
+Color palette: Clean whites, soft creams, warm neutrals.
+Skin tones: translucent, dewy, deeply healthy.
+Background: minimal, clean ? white tiles or frosted glass.
+
+Style: Luxury J-skincare / sunscreen brand. Calm, ritualistic, premium.
+No text. No visible product packaging.
+Mood: "This is not just sunscreen. This is skincare."
+
+
+
